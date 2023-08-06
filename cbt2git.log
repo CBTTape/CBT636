@@ -1,0 +1,5 @@
+2023-08-06 06:10:44.850365 - Initialized conversion of CBT636
+2023-08-06 06:10:44.875287 - Received CBT.V505.FILE636.PDS from FILE636.XMI 
+2023-08-06 06:10:44.877565 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE636.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:10:44.878562 - Found @FILE636.txt (text/plain) in CBT.V505.FILE636.PDS, moved to PDS/@FILE636
+2023-08-06 06:10:44.879667 - Found WCOMMAND.rexx (text/x-pascal) in CBT.V505.FILE636.PDS, moved to PDS/WCOMMAND
